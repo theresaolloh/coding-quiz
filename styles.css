@@ -54,7 +54,7 @@ li:nth-child(odd) {
 }
 
 .wrapper {
-  margin: auto;
+  margin: center;
   max-width: 600px;
 }
 
